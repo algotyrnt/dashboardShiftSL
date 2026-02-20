@@ -16,7 +16,7 @@
     "postcss": "^8.5.3",
     "tailwindcss": "^4.0.12",
     "typescript": "~5.7.2",
-    "vite": "^6.1.1"
+    "vite": "^6.4.1"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
@@ -29,11 +29,11 @@
     "@schedule-x/shared": "^2.19.0",
     "@schedule-x/theme-default": "^2.21.0",
     "@vitejs/plugin-react": "^4.3.4",
-    "axios": "^1.8.3",
+    "axios": "^1.13.5",
     "dayjs": "^1.11.13",
     "firebase": "^11.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^7.3.0"
+    "react-router-dom": "^7.13.0"
   }
 }
